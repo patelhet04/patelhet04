@@ -21,7 +21,7 @@ I'm a passionate software developer who loves crafting elegant solutions to comp
 Check out my [personal website](https://hetpatel.dev/) to learn more about my projects and interests!
 
 ## Fun Facts
-- When I'm not coding, you can find me in the gym🏋️‍♂️.
+- When I'm not coding, you can find me in the gym🏋️‍♂️ or experimenting in the kitchen, where I love to whip up new recipes and explore different cuisines.
 - I firmly believe that every line of code tells a story waiting to be discovered.
 
 Thanks for dropping by! Happy coding! 😊
