@@ -15,7 +15,7 @@ I'm a passionate software developer who loves crafting elegant solutions to comp
 - Other Tools and Software: Docker, AWS Lambda, Redis, Selenium
 
 ## Let's Connect
-📫 Want to collaborate on a project, discuss technology, or just say hi? Feel free to reach out to me via [Email](mailto:youremail@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+📫 Want to collaborate on a project, discuss technology, or just say hi? Feel free to reach out to me via [Email](hetpatel.hp4199@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/het1074).
 
 ## Personal Website
 Check out my [personal website](https://hetpatel.dev/) to learn more about my projects and interests!
