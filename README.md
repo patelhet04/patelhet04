@@ -14,6 +14,19 @@ I'm a passionate software developer who loves crafting elegant solutions to comp
 - Databases: MySQL, MongoDB, PostgreSQL
 - Other Tools and Software: Docker, AWS Lambda, Redis, Selenium
 
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/><!-- C++ icon -->
+<img src="https://img.icons8.com/color/48/000000/python.png"/><!-- Python icon -->
+<img src="https://img.icons8.com/color/48/000000/react-native.png"/> <!-- React icon -->
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <!-- Node.js icon -->
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/> <!-- JavaScript icon -->
+<img src="https://img.icons8.com/color/48/000000/typescript.png"/> <!-- TypeScript icon -->
+<img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <!-- MongoDB icon -->
+<img src="https://img.icons8.com/color/48/000000/redis.png"/> <!-- Redis icon -->
+<img src="https://img.icons8.com/color/48/000000/mysql.png"/> <!-- MySQL icon -->
+<img src="https://img.icons8.com/color/48/000000/graphql.png"/> <!-- GraphQL icon -->
+<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> <!-- AWS icon -->
+<img src="https://img.icons8.com/color/48/000000/docker.png"/> <!-- Docker icon -->
+
 ## Let's Connect
 📫 Want to collaborate on a project, discuss technology, or just say hi? Feel free to reach out to me via [Email](hetpatel.hp4199@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/het1074).
 
