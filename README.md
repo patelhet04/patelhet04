@@ -22,7 +22,7 @@ I'm a passionate software developer who loves crafting elegant solutions to comp
 <img src="https://img.icons8.com/color/48/000000/typescript.png"/> <!-- TypeScript icon -->
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <!-- MongoDB icon -->
 <img src="https://img.icons8.com/color/48/000000/redis.png"/> <!-- Redis icon -->
-<img src="https://img.icons8.com/color/48/000000/mysql.png"/> <!-- MySQL icon -->
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <!-- MySQL icon -->
 <img src="https://img.icons8.com/color/48/000000/graphql.png"/> <!-- GraphQL icon -->
 <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> <!-- AWS icon -->
 <img src="https://img.icons8.com/color/48/000000/docker.png"/> <!-- Docker icon -->
