@@ -24,4 +24,4 @@ Currently, I'm diving deep into cloud technologies and exploring its endless pos
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-# Thanks for dropping by! Happy coding! 😊
+Thanks for dropping by! Happy coding! 😊
