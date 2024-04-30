@@ -1,4 +1,4 @@
-# 👋 Hi there! Welcome to my profile! I'm thrilled to have you here. 
+👋 Hi there! Welcome to my profile! I'm thrilled to have you here. 
 
 ## 👨‍💻 About Me
 I'm a passionate software developer who loves crafting elegant solutions to complex problems. My journey in the world of coding began with a simple "Hello, World!" and has since evolved into a deep-seated love for creating innovative software.
