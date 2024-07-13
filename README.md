@@ -25,6 +25,3 @@ Currently, I'm diving deep into cloud technologies and exploring its endless pos
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 Thanks for dropping by! Happy coding! 😊
-
-<img src="https://raw.githubusercontent.com/patelhet04/patelhet04/output/snake.svg" alt="Snake animation" />
-
