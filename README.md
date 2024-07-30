@@ -1,5 +1,5 @@
 ## 👋 Hi there! Welcome to my profile! I'm thrilled to have you here. 
-[![Visits Badge](https://badges.pufler.dev/visits/patelhet04/patelhet04)](https://github.com/patelhet04)
+ <!--[![Visits Badge](https://badges.pufler.dev/visits/patelhet04/patelhet04)](https://github.com/patelhet04)-->
 
 ## 👨‍💻 About Me
 I'm a passionate software developer who loves crafting elegant solutions to complex problems. My journey in the world of coding began with a simple "Hello, World!" and has since evolved into a deep-seated love for creating innovative software. I'm particularly enthusiastic about cloud computing, with a strong focus on Amazon Web Services (AWS). I've been working extensively with various AWS services, leveraging them to build scalable, resilient, and cost-effective solutions. Additionally, I have a keen interest in event streaming and real-time data processing, working extensively with Apache Kafka to enable seamless data integration and processing across various systems
