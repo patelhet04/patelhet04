@@ -1,4 +1,4 @@
-## 👋 Hi there! Welcome to my profile! I'm thrilled to have you here. 
+# 👋 Hi there! Welcome to my profile! I'm thrilled to have you here. 
  <!--[![Visits Badge](https://badges.pufler.dev/visits/patelhet04/patelhet04)](https://github.com/patelhet04)-->
 
 ## 👨‍💻 About Me
